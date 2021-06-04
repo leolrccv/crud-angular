@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Ferrari Black",
+      "price": 312.34
+    },
+    {
+      "id": 3,
+      "name": "Camiseta Naruto",
+      "price": 553453.54
+    },
+    {
+      "name": "Vira lata preto",
+      "price": 12,
+      "id": 4
+    },
+    {
+      "name": "Galaxy Pocket",
+      "price": "653",
+      "id": 5
+    },
+    {
+      "name": "vds",
+      "price": "4",
+      "id": 6
+    }
+  ]
+}
